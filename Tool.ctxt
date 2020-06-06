@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tool()
+comment0.text=\n\ No\ parameters\ constructor\n
+comment1.params=
+comment1.target=int\ getTimesBorrowed()
+comment1.text=\n\ Returns\ the\ times\ <code>Tool</code>\ object\ been\ borrowed\n\ \n\ @return\ \ \ the\ how\ many\ times\ tool\ been\ borrowed,\ as\ a\ <code>int</code>\n
+comment2.params=
+comment2.target=java.lang.String\ getOnLoan()
+comment2.text=\n\ Returns\ the\ availability\ of\ the\ <code>Tool</code>\ object\n\ \n\ @return\ \ \ the\ availability,\ as\ a\ <code>String</code>\n
+comment3.params=
+comment3.target=boolean\ getOnLoan1()
+comment3.text=\n\ Returns\ the\ availability\ of\ the\ <code>Tool</code>\ object\n\ \n\ @return\ \ \ the\ availability,\ as\ a\ <code>boolean</code>\n
+comment4.params=
+comment4.target=int\ getWeight()
+comment4.text=\n\ Returns\ the\ weight\ of\ the\ <code>Tool</code>\ object\n\ \n\ @return\ \ \ the\ weight\ of\ tool,\ as\ a\ <code>int</code>\n
+comment5.params=scanner2
+comment5.target=void\ readData(java.util.Scanner)
+comment5.text=\n\ Assigning\ values\ for\ each\ <code>Tool</code>\ object\ field\ from\ \n\ a\ line\ of\ the\ scanned\ text\ file\n\n\ @param\ \ <code>scanner2</code>\ a\ <code>Scanner</code>\ object\n
+comment6.params=
+comment6.target=void\ printDetails()
+comment6.text=\n\ Returns\ all\ the\ field\ values\ of\ the\ <code>Tool</code>\ object\n\ \n\ @return\ \ \ the\ specs\ of\ tool,\ as\ a\ <code>String</code>\n
+numComments=7

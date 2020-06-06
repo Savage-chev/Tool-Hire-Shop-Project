@@ -1,0 +1,14 @@
+// this is a comment, any lines that start with //
+// (and blank lines) should be ignored
+
+// data is toolName, toolCode, timesBorrowed, onLoan, cost, weight
+Makita BHP452RFWX,RD2001,12 ,false,14995,1800
+Flex Impact Screwdriver FIS439,RD2834,14,true,13499,1200
+DeWalt D23650-GB Circular Saw, RD6582,54,true,14997,5400
+Milwaukee DD2-160XE Diamond Core Drill,RD4734,50,false,38894,9000
+Bosch GSR10.8-Li Drill Driver,RD3021,25, true,9995,820
+ Bosch GSB19-2REA Percussion Drill,RD8654,85,false,19999,4567
+Flex Impact Screwdriver FIS439, RD2835,14,false,13499,1200
+DeWalt DW936 Circular Saw,RD4352,18,false,19999,3300
+Sparky FK652 Wall Chaser,RD7625,15,false,29994,8400
+

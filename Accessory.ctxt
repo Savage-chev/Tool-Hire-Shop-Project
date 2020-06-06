@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Accessory()
+comment0.text=\n\ No\ parameters\ constructor\n
+comment1.params=
+comment1.target=boolean\ isRecyclable()
+comment1.text=\n\ Returns\ is\ recyclable\ of\ the\ <code>Accessory</code>\ object\n\ \n\ @return\ \ \ the\ isRecyclable,\ as\ a\ <code>boolean</code>\n
+comment2.params=scanner2
+comment2.target=void\ readData(java.util.Scanner)
+comment2.text=\n\ Assigning\ values\ for\ each\ <code>Accessory</code>\ object\ field\ from\ \n\ a\ line\ of\ the\ scanned\ text\ file\n\n\ @param\ \ <code>scanner2</code>\ a\ <code>Scanner</code>\ object\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\n\ Returns\ all\ the\ field\ values\ of\ the\ <code>Accesory</code>\ object\n\ \n\ @return\ \ \ the\ specs\ of\ accessory,\ as\ a\ <code>String</code>\n
+numComments=4

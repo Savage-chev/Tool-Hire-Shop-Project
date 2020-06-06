@@ -1,0 +1,23 @@
+// this is a comment, any lines that start with //
+// (and blank lines) should be ignored
+
+[ElectricTool data]
+// data is toolName, toolCode, timesBorrowed, onLoan, cost, weight, rechargeable, power
+Makita BHP452RFWX,RD2001,12 , false,14995,1800,true,18V
+Flex Impact Screwdriver FIS439,RD2834,14,true,13499,1200 ,true,10.8V
+DeWalt D23650-GB Circular Saw, RD6582,54,true,14997,5400,false,1350W
+Milwaukee DD2-160XE Diamond Core Drill,RD4734,50,false,38894,9000,false,1500W
+Bosch GSR10.8-Li Drill Driver,RD3021,25, true,9995,820, true,10.8V
+ Bosch GSB19-2REA Percussion Drill,RD8654,85,false,19999,4567, false,900W
+Flex Impact Screwdriver FIS439, RD2835,14,false,13499,1200,true,10.8V
+DeWalt DW936 Circular Saw,RD4352,18,false,19999,3300,true,18V
+Sparky FK652 Wall Chaser,RD7625,15,false,29994,8400,false,2100W
+
+
+[HandTool data]
+// data is toolName, toolCode, timesBorrowed, onLoan, cost, weight,sharpenable 
+1cm carving chisel,HT5623,578,true,1200,200, true
+Sledge hammer,HT1000,350,true,2000,10000 , false
+2cm flat screwdriver,HT1002,900,false,500,200, true
+0.5cm chisel,HT 1050,78,true,1000,200, true
+Bolster,HT 1040, 678,false, 600,400,false

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ElectricTool()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ElectricTool\n
+comment1.params=
+comment1.target=boolean\ getRechargeable()
+comment1.text=\n\ Returns\ rechargeable\ of\ the\ <code>ElectricTool</code>\ object\n\ \n\ @return\ \ \ is\ electric\ tool\ rechargeable,\ as\ a\ <code>boolean</code>\n
+comment2.params=
+comment2.target=java.lang.String\ getPower()
+comment2.text=\n\ Returns\ the\ power\ of\ the\ <code>ElectricTool</code>\ object\n\ \n\ @return\ \ \ the\ power\ of\ electric\ tool,\ as\ a\ <code>String</code>\n
+comment3.params=scanner2
+comment3.target=void\ readData(java.util.Scanner)
+comment3.text=\n\ Assigning\ values\ for\ each\ <code>Tool</code>\ and\ <code>ElectricTool</code>\n\ objects\ fields\ from\ a\ line\ of\ the\ scanned\ text\ file\ and\ \n\n\ @param\ \ <code>scanner2</code>\ a\ <code>Scanner</code>\ object\n
+comment4.params=
+comment4.target=void\ printDetails()
+comment4.text=\n\ Returns\ all\ the\ fields\ value\ of\ the\ <code>Tool</code>\ object\n\ \n\ plus\ the\ field\ value\ of\ <code>ElectricTool</code>\ object\n\ \n\ @return\ \ \ the\ specs\ of\ tool,\ as\ a\ <code>String</code>\n
+numComments=5

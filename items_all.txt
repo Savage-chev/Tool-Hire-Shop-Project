@@ -1,0 +1,39 @@
+// this is a comment, any lines that start with //
+// (and blank lines) should be ignored
+
+[ElectricTool data]
+
+// data is toolName, toolCode, cost, timesBorrowed, onLoan, weight, rechargeable, power
+Makita BHP452RFWX,RD2001,12 ,14995,false,1800,true,18V
+Flex Impact Screwdriver FIS439,RD2834,13499,14,true,1200 ,true,10.8V
+DeWalt D23650-GB Circular Saw, RD6582,14997,54,true,5400,false,1350W
+Milwaukee DD2-160XE Diamond Core Drill,RD4734,50,38894, false,9000,false,1500W
+Bosch GSR10.8-Li Drill Driver,RD3021,9995,25, true,820, true,10.8V
+ Bosch GSB19-2REA Percussion Drill,RD8654,19999,85,false,4567, false,900W
+Flex Impact Screwdriver FIS439, RD2835,13499,14,false,1200,true,10.8V
+DeWalt DW936 Circular Saw,RD4352,19999,18, false,3300,true,18V
+Sparky FK652 Wall Chaser,RD7625,29994,15,false,8400,false,2100W
+
+[HandTool data]
+
+// data is toolName, toolCode, cost, timesBorrowed, onLoan, weight,sharpenable 
+1cm carving chisel,HT5623,1200,578,true,200, true
+Sledge hammer,HT1000,2000,350,true,10000 , false
+2cm flat screwdriver,HT1002,500,900,false,200, true
+0.5cm chisel,HT 1050,1000,78,true,200, true
+Bolster,HT 1040, 600,678,false, 400,false
+
+[electricTool data]
+Milwaukee DD2-160XE Diamond Core Drill,RD4735,3899,9000, false,65,true,1200W
+Bosch GSR10.8-Li Drill Driver,RD3022,9995,820, true,18,true,10.8V
+
+[Perishable data]
+
+// data is isRecyclable,itemName, itemCode, cost, isIrritant, useByDate, volume
+false, super toxic weed killer,LI1020,9000, true, 17-02-2019,250
+false,stainless steel cleaner,LI1021,1099,false,09-11-20,300
+
+[Workwear data]
+// data is isRecyclable, itemName, itemCode, cost, manufacturing standard, colour, size
+false, oil-proof jacket,PI1320,3000,EN 812,red,M
+true, gardening gloves,PI1321,5500, EN 135,green,S

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShopItem()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ShopItem\n
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment1.text=\n\ Returns\ the\ <code>itemName</code>\ field\ value\ of\ the\ <code>ShopItem</code>\ object\n\ \n\ @return\ \ \ the\ name\ of\ item,\ as\ a\ <code>String</code>\n
+comment2.params=
+comment2.target=java.lang.String\ getItemCode()
+comment2.text=\n\ Returns\ the\ <code>itemCode</code>\ field\ value\ of\ the\ <code>ShopItem</code>\ object\n\ \n\ @return\ \ \ the\ id\ number\ of\ item,\ as\ a\ <code>String</code>\n
+comment3.params=
+comment3.target=int\ getCost()
+comment3.text=\n\ Returns\ the\ <code>cost</code>\ field\ value\ of\ the\ <code>ShopItem</code>\ object\n\ \n\ @return\ \ \ the\ hire\ cost\ of\ tool,\ as\ a\ <code>int</code>\n
+comment4.params=scanner2
+comment4.target=void\ readData(java.util.Scanner)
+comment4.text=\n\ Assigning\ values\ for\ each\ <code>ShopItem</code>\ object\ field\ from\ \n\ a\ line\ of\ the\ scanned\ text\ file\n\n\ @param\ \ <code>scanner2</code>\ a\ <code>Scanner</code>\ object\n
+comment5.params=
+comment5.target=void\ printDetails()
+comment5.text=\n\ Returns\ all\ the\ fields\ value\ of\ the\ <code>ShopItem</code>\ object\n\ \n\ @return\ \ \ the\ specs\ of\ item,\ as\ a\ <code>String</code>\n
+numComments=6
